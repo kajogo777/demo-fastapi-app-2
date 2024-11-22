@@ -1,4 +1,4 @@
-# demo-fastapi-app-3tier
+# demo-fastapi-app-2
 
 ## Required Env Vars
 
